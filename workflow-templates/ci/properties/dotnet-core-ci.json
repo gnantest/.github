@@ -1,0 +1,11 @@
+{
+    "name: ".NET Core", 
+    "description": "Build, test, and publish a console application built on .NET core", 
+    "iconName:": "dotnet", 
+    "categories": [
+        "Continuous integration", 
+        "C#", 
+        ".NET Core", 
+        ".NET"
+     ]
+}
